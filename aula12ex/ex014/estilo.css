@@ -21,3 +21,10 @@ footer{
 color: white;
 font-style: italic;
 }
+
+img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
