@@ -9,12 +9,25 @@ header{
 }
 
 section{
-    background: white;
+    background-image: url("https://muramasa.com.br/wp-content/uploads/2022/07/onepiecefilme3-730x365.jpg");
+    background-size: cover;
     border-radius: 10px;
     padding: 15px;
     width: 500px;
     margin: auto;
     box-shadow: 3px 3px 4px rgba(0, 0, 0, 0.425);
+    color: white;
+    font-weight: bolder;
+}
+
+.conteudo{
+    text-align: left;
+}
+
+#botao:hover{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
 }
 
 footer{
